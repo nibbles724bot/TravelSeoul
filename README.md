@@ -2,6 +2,10 @@
 
 繁體中文、Miffy 繪本風格的五天四夜首爾互動旅行手帳。原生 HTML / CSS / JavaScript，無建置步驟或外部執行依賴。
 
+## 線上網站
+
+[開啟首爾旅行手帳](https://nibbles724bot.github.io/TravelSeoul/)
+
 ## 開啟
 
 直接以瀏覽器開啟 `index.html`，或執行 `python3 -m http.server 8000`，瀏覽 http://localhost:8000 。可部署至任何靜態主機（含 GitHub Pages）。
